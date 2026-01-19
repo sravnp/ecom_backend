@@ -3,7 +3,6 @@
 A backend REST API for an E-commerce application built using Spring Boot, MySQL, JPA(Hibernate).  
 This project provides backend services for an online shopping system and can be tested using Postman.
 
----
 
 #Tech Stack
 - Java 21
@@ -14,14 +13,12 @@ This project provides backend services for an online shopping system and can be 
 - Lombok
 - Maven
 
----
 
 #Tools Used
 - IntelliJ IDEA(Development / Running the project)
 - MySQL CLI(Database creation and management)
 - Postman(API Testing)
 
----
 
 #Features
 - REST API based backend
@@ -29,4 +26,3 @@ This project provides backend services for an online shopping system and can be 
 - JPA+Hibernate ORM support
 - Maven project structure
 
------
